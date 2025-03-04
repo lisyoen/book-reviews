@@ -10,8 +10,7 @@
 
 1. [총, 균, 쇠](https://github.com/lisyoen/book-reviews/issues/34)
 2. [사피엔스](https://github.com/lisyoen/book-reviews/issues/14)
-3. [호모 데우스](https://github.com/lisyoen/book-reviews/issues/44)
-4. [어떻게 원하는 것을 얻는가](https://github.com/lisyoen/book-reviews/issues/18)
+3. [어떻게 원하는 것을 얻는가](https://github.com/lisyoen/book-reviews/issues/18)
 
 ## 과학
 
